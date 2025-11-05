@@ -18,8 +18,8 @@ This project is a simple university management system that allows both students 
 Works on macOS, Windows, and Linux.
 ## Installation and setup Instructions
 1. Clone or extract the repository:
-`git clone https://github.com/PhuocTran-code/FOSD-assignment3-cliApp-guiApp-master.git`  
-`gh repo clone PhuocTran-code/FOSD-assignment3-cliApp-guiApp-master`  
+git clone `https://github.com/PhuocTran-code/University-app.git`  
+`gh repo clone PhuocTran-code/University-app`  
 Or extract the provided ZIP file.  
 
 2. Open the project directory in your IDE or terminal.  
